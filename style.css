@@ -17,13 +17,13 @@ body{
     background: #181818;
 }
 h1{
-    color: rgb(64, 255, 0);
+    color: rgb(51, 115, 174);
 }
 button{
     padding: 10px 20px ;
     font-size: 16px;
     color:white;
-    background-color: rgb(106, 192, 31);
+    background-color: rgb(16, 53, 117);
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.3 ease ;
